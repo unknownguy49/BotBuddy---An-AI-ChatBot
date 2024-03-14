@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 
 # Set your OpenAI API key
-api_key = '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'
+api_key = ''
 
 # Function to generate response using OpenAI API
 # Function to generate response using OpenAI API
